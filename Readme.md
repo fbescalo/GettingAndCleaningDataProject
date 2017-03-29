@@ -1,6 +1,6 @@
 # Getting & Cleaning Data Project
 
-###Description of the script: Getting & Cleaning Data.
+### Description of the script: Getting & Cleaning Data.
 
 The project contains one script, run_analysis.R, that :
 
